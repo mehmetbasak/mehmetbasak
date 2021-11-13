@@ -1,11 +1,19 @@
-### Hi there 👋
+### Hi there , I'am Mehmet 👋
+ :zap: I love  programming, computer games and playing chess.
 
+💬  I’m currently learning Java that is so crazy ...
+
+👯 I feel like to sharing a bit knowledge to humanity ...
+
+📫 How to find me: 
+  - :pencil2: [Medium articles](https://medium.com/@mehmetbasak)
+  - :bulb: [Linkedin](https://www.linkedin.com/in/mehmetbasak/)
 <!--
 **mehmetbasak/mehmetbasak** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
+-:zap: I love math, programming, data science, and books
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
