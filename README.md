@@ -1,4 +1,4 @@
-### Hi there , I'am Mehmet 👋
+### Hi there , I'm Mehmet 👋
  :zap: I love  programming, computer games and playing chess.
 
 💬  I’m currently learning Java that is so crazy ...
